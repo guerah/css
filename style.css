@@ -1,0 +1,38 @@
+nav li{
+    display: inline;
+        
+      }
+  a{
+    text-decoration: none;
+  }
+  h1 { 
+    color: rgb(226, 43, 150); 
+    font-weight: bold;
+    font-size :30px;
+    letter-spacing: 4px;
+        word-spacing: 4px;
+      }
+      table,
+      td {
+          border: 1px solid #333;
+      }
+      
+      thead,
+      tfoot {
+          background-color: #333;
+          color: #fff;
+      }
+      
+  
+  h5 {
+    color: brown;
+  }
+  body
+  {
+    font-family: 'Roboto';
+    font-size: 22px;
+    
+        background-image: url("p.webp");
+        background-color: #cccccc;
+      
+}
